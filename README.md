@@ -9,7 +9,7 @@ npm run dev
 
 
 ## Deployment
-前往 [https://a88759666.github.io/IGRedux](https://a88759666.github.io/IGRedux/)
+前往 [https://a88759666.github.io/3dModals](https://a88759666.github.io/3dModals/)
 
 
 ## 指標功能
