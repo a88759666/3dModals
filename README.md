@@ -22,4 +22,4 @@ npm run dev
   * Typescript
   * Tailwind樣式開發
 ```
-![screenshot](./public/images/screenshot.png)
+![screenshot](./src/images/screenshot.png)
